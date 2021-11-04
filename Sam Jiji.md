@@ -8,7 +8,7 @@
 My name is **Sam Jiji**, I'm 20 years old and I'm a student of **Computer Science** at Nottingham Trent University (**NTU**) in the United Kingdom.
 I am currently in the second year of my bachelors degree. I am completely passionate about software development, games and also very interested in blockchain. I love playing open-world games 🎮💻, watching movies 🎥, shows & reading books 📚.
 
-<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+<img align= "right" width= "240" src= "https://media1.giphy.com/avatars/rawrmos/qp6W1vbUWiDK.gif"/>
 
 
 - 📖 I’m currently learning <code><img height="20" src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue-thumbnail.png"></code>
